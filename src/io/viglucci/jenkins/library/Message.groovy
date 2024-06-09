@@ -1,4 +1,6 @@
 
+package io.viglucci.jenkins.library
+
 class Message {
 
     String text = ""
