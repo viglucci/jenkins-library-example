@@ -3,7 +3,7 @@ class Message {
 
     String text = ""
 
-    constructor(String text) {
+    Message(String text) {
         this.text = text
     }
 }
